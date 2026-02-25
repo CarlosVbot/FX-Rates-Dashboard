@@ -2,13 +2,10 @@
 
 A small, production-style front-end demo that consumes a public FX reference rates API and showcases typical “senior front-end” concerns: clean architecture, strong typing, responsive UI, accessible forms, caching, and predictable state.
 
-## Live Demo
-- (Add your Vercel/Netlify URL here)
-
 ## Screenshots
-- (Add 2–3 screenshots or a short GIF here)
-
----
+![Converter](assets/converter.png)
+![History](assets/history.png)
+![Watchlist](assets/watchlist.png)
 
 ## Features
 
