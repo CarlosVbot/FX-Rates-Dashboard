@@ -3,9 +3,9 @@
 A small, production-style front-end demo that consumes a public FX reference rates API and showcases typical “senior front-end” concerns: clean architecture, strong typing, responsive UI, accessible forms, caching, and predictable state.
 
 ## Screenshots
-![Converter](assets/converter.png)
-![History](assets/history.png)
-![Watchlist](assets/watchlist.png)
+![converter](https://github.com/user-attachments/assets/aab123dc-f861-477f-96e9-e975400b62ef)
+![history](https://github.com/user-attachments/assets/a0a27685-464f-4da3-9e95-0a743a8649b0)
+![watchlist](https://github.com/user-attachments/assets/21e70890-fe84-4429-b6b7-950a36be45d2)
 
 ## Features
 
